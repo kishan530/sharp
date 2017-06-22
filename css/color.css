@@ -1,0 +1,244 @@
+/*________________________________ Set-Up For Primary Color ___________________________*/
+
+
+/*_________ Content Primary Color ________*/
+
+.our-services .single-our-service .img-box .overlay .box .box-content a,
+.our-features .single-our-feature .overlay .box .box-content a,
+.single-team-member p.info span,
+.single-blog-post .img-box .overlay .box .box-content a,
+.single-testimonials .info-box h3,
+.contact-section span.highlight,
+.single-fact-counter .text-box .number,
+.no-container.our-features .single-our-feature .icon-box:before,
+.single-sidebar-box.search-widget form button:hover,
+.single-shop-item .price span,
+.single-sidebar-box.best-seller > ul > li .text-box .price,
+.product-content-box .content-box .price,
+.product-content-box .content-box .location-box span,
+.review-box .single-review-box .text-box .top-box .rating-box span,
+.review-box .single-review-box .text-box .bottom-box ul li a:hover,
+.related-product-box .title a,
+.cart-table tbody tr .sub-total {
+    color: #000;
+}
+
+
+/*_______ Background for primary color ______*/
+
+.thm-btn:hover,
+.rev_slider_wrapper .tparrows:hover,
+.thm-btn.thm-blue-bg,
+.accrodion.active .accrodion-title h4:before,
+.home-contact-form button:hover,
+.subscription button:hover,
+.call-to-action.no-margin,
+.our-features.in-wrapper .container,
+.single-sidebar-box.service-link-widget ul li.active a,
+.single-sidebar-box.broucher-widgets .icon-box,
+.single-sidebar-box.service-link-widget ul li a:hover,
+.single-service-page .single-our-feature:hover,
+ul.gallery-filter li:hover span,
+ul.gallery-filter li.active span,
+.single-project-item .overlay .box .bottom-box ul li a:hover,
+ul.post-pagination li:hover a,
+ul.post-pagination li.active a,
+.news-content .single-blog-post .content-box .bottom-box .thm-btn,
+.news-content .single-blog-post .content-box .bottom-box .share-box button:hover,
+.single-sidebar-box.search-widget form button,
+.single-sidebar-box.price-filter .noUi-handle,
+.single-sidebar-box.tag-links ul li a:hover,
+.single-contact-info .box,
+.single-project-content .single-project-carousel .owl-nav [class*=owl-],
+.single-project-content .single-project-customer-info,
+.reply-box button:hover,
+.product-tab-box .tab-title ul li.active a,
+.product-tab-box .tab-title ul li a:hover,
+.cart-table tbody .available-info .icon {
+    background: #c4c7ce;
+}
+
+.our-features:before,
+.call-to-action-home:before {
+    background: rgba(17, 38, 51, 0.9);
+}
+
+.our-services .single-our-service .img-box .overlay,
+.single-blog-post .img-box .overlay,
+.single-project-item .overlay .box .top-box {
+    background: rgba(17, 38, 51, 0.8);
+}
+
+.inner-banner:before {
+    background: rgba(17, 38, 51, 0.85);
+}
+
+.our-features .single-our-feature .overlay:before {
+    background: rgba(13, 29, 39, 0.9);
+}
+
+.mainmenu-wrapper .search-box form button {
+    background: #0b1b25;
+}
+
+
+/*_______ Border for Primary color ______*/
+
+.mainmenu-wrapper .search-box form {
+    border: 1px solid #0b1b25;
+}
+
+
+.rev_slider_wrapper .tparrows:hover,
+ul.gallery-filter li:hover span,
+ul.gallery-filter li.active span,
+ul.post-pagination li:hover a,
+ul.post-pagination li.active a {
+    border-color: #c4c7ce;
+}
+
+
+/*_______________________________________ Set-Up For Secondary Color ________________________________*/
+
+
+/*_________ Content Secondary Color ________*/
+
+.top-bar .top-info span,
+.mainmenu-wrapper .search-box form button,
+.mainmenu-wrapper .search-box form input,
+.call-to-action p a,
+.our-features .single-our-feature p,
+.single-team-member p.position,
+.call-to-action-home h3 span,
+.accrodion.active .accrodion-title h4:before,
+.single-blog-post .content-box ul > li > a,
+.single-blog-post .content-box h3:hover,
+.testimonials-section .owl-theme .owl-nav [class*=owl-]:hover,
+.single-testimonials .info-box ul.star li,
+.contact-section a,
+.subscription ul.social li a:hover,
+.footer-widget.recent-news .content-box a.date,
+.footer-widget.contact-widget .icon-box i,
+.scroll-to-top,
+.bread-cumb ul li span,
+.single-fact-counter .icon-box i,
+.footer-widget.link-widget .links li a:hover,
+.single-sidebar-box.testimonials-widget .single-testi-carousel .box span,
+.no-container.our-features .single-our-feature .icon-box,
+ul.gallery-filter li:hover span,
+ul.gallery-filter li.active span,
+ul.post-pagination li:hover a,
+ul.post-pagination li.active a,
+.single-blog-post .content-box h3:hover,
+.news-content .single-blog-post .content-box .bottom-box .share-box button:hover,
+.single-sidebar-box.search-widget form button,
+.single-sidebar-box.category-widget ul li a:hover,
+.single-sidebar-box.recent-news-widget .content-box a.date,
+.single-shop-item .star-box li i,
+.single-sidebar-box.best-seller > ul > li .text-box ul.star-box li i,
+.single-sidebar-box.tag-links ul li a:hover,
+.footer-widget.recent-news .content-box h4:hover,
+.bottom-footer p a,
+.single-project-content .single-project-customer-info ul li label,
+.single-project-content .single-project-content p.tags a,
+.project-content .owl-theme .owl-nav [class*=owl-]:hover,
+.comment-box .single-comment-box .text-box .top-box span,
+.comment-box .single-comment-box .text-box .content a,
+.reply-box button:hover,
+.single-shop-item h3:hover,
+.product-content-box .content-box .list-inline .fa,
+.product-tab-box .tab-title ul li.active a,
+.product-tab-box .tab-title ul li a:hover,
+.review-box .single-review-box .text-box .top-box .rating-box ul li i,
+.related-product-box .title a:hover,
+.checkout-section .payment-options .option-block .radio-block.active .icon i,
+.mainmenu-holder .nav-header > ul > li:hover > a {
+    color: #c4c7ce;
+}
+
+.mainmenu-wrapper .search-box form input::-webkit-input-placeholder {
+    color: #c4c7ce;
+}
+
+.mainmenu-wrapper .search-box form input:-moz-placeholder {
+    /* Firefox 18- */
+    color: #c4c7ce;
+}
+
+.mainmenu-wrapper .search-box form input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #c4c7ce;
+}
+
+.mainmenu-wrapper .search-box form input:-ms-input-placeholder {
+    color: #c4c7ce;
+}
+
+
+/*_______ Background for Secondary color ______*/
+
+.mainmenu-holder .nav-header > ul > li.active > a,
+.thm-btn,
+.mainmenu-holder .nav-header > ul > li > ul li:hover > a,
+.our-services .single-our-service .img-box .overlay .box .box-content a,
+.our-services .single-our-service .img-box .overlay .box .box-content a:before,
+.our-services .single-our-service .img-box .overlay .box .box-content a:after,
+.our-features .single-our-feature .overlay .box .box-content a,
+.our-features .single-our-feature .overlay .box .box-content a:before,
+.our-features .single-our-feature .overlay .box .box-content a:after,
+.single-blog-post .img-box .overlay .box .box-content a,
+.single-blog-post .img-box .overlay .box .box-content a:before,
+.single-blog-post .img-box .overlay .box .box-content a:after,
+.home-contact-form button,
+.subscription button,
+.top-bar .social ul li a:hover,
+.single-sidebar-box.broucher-widgets,
+.single-sidebar-box.testimonials-widget .testimonial-carousel .owl-dots .owl-dot span,
+.single-project-item .overlay .box .bottom-box,
+.news-content .single-blog-post .content-box .bottom-box .thm-btn:hover,
+.news-content .single-blog-post .content-box .bottom-box .share-box ul li a:hover,
+.single-sidebar-box.search-widget form button:hover,
+.single-sidebar-box.category-widget ul li a:hover:before,
+.single-sidebar-box.price-filter .noUi-connect,
+.single-contact-info,
+.single-project-content .single-project-carousel .owl-nav [class*=owl-]:hover,
+.reply-box button,
+.thm-btn.thm-blue-bg:hover {
+    background: #c4c7ce;
+}
+
+header.header .single-header-right .icon-btn + .tooltip > .tooltip-inner {
+    background-color: #c4c7ce;
+}
+
+
+/*_______ Border for Secondary color ______*/
+
+header.header .single-header-right .icon-btn + .tooltip.top .tooltip-arrow {
+    border-top-color: #c4c7ce;
+}
+
+.our-services .single-our-service .img-box .overlay,
+.our-features .single-our-feature .overlay,
+.single-blog-post .img-box .overlay {
+    border-bottom: 3px solid #1588d2;
+}
+
+.about-section .owl-theme .owl-dots .owl-dot.active span,
+.single-sidebar-box.service-link-widget ul li.active a,
+.single-sidebar-box.service-link-widget ul li a:hover,
+.news-content .single-blog-post .content-box .bottom-box .share-box ul li a:hover,
+.testimonials-section .owl-theme .owl-nav [class*=owl-]:hover,
+.project-content .owl-theme .owl-nav [class*=owl-]:hover,
+.mainmenu-holder .nav-footer > ul > li > button:hover {
+    border-color: #c4c7ce;
+}
+
+.single-sidebar-box.testimonials-widget .testimonial-carousel .owl-dots .owl-dot span,
+.single-sidebar-box.category-widget ul li a:before {
+    border: 1px solid #c4c7ce;
+}
+
+.single-project-item .overlay .box .bottom-box ul li a {
+    border-right: 1px solid #1576b5;
+}
