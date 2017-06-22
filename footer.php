@@ -46,7 +46,7 @@
                                     <i class="flaticon-placeholder"></i>
                                 </div>
                                 <div class="content dtc">
-                                    <h3>20c Factory Lake,  New York, <br>NY 10218 USA.</h3>
+                                    <h3>9/10, Sitra Road,Sharp nagar,Kalapatti,Cimbatore<br>NY 641 048 India..</h3>
                                 </div>
                             </li>
                             <li>
@@ -54,7 +54,7 @@
                                     <i class="flaticon-technology"></i>
                                 </div>
                                 <div class="content dtc">
-                                    <h3>(+91) 00-700-6203 to 6206</h3>
+                                    <h3>(+91)-(422)-4234100,2628131,2668836,6471300</h3>
                                 </div>
                             </li>
                             <li>

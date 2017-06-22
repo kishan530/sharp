@@ -36,48 +36,8 @@
 
 <body>
     <div class="boxed_wrapper">
-       
-        <header class="header">
-            <div class="container">
-                <div class="logo pull-left">
-                    <a href="index.php">
-                        <img src="img/theme/logo.png" alt="Awesome Image" id="theme-logo" />
-                    </a>
-                </div>
-                <div class="header-right pull-right">
-                    <div class="single-header-right">
-                        <div class="icon-box">
-                            <i class="flaticon-placeholder"></i>
-                        </div>
-                        <div class="content-box">
-                            <b>20c Factory Avenue,</b>
-                            <p>New York, NY 10218 USA.</p>
-                        </div>
-                    </div>
-                    <div class="single-header-right">
-                        <div class="icon-box">
-                            <i class="flaticon-technology"></i>
-                        </div>
-                        <div class="content-box">
-                            <b>+(23) 890 60 3919</b>
-                            <p>Troll Free Number</p>
-                        </div>
-                    </div>
-                    <div class="single-header-right">
-                        <a href="#" data-toggle="tooltip" data-placement="top" title="Download" class="icon-btn"><i class="flaticon-cloud"></i></a>
-                        <button class="thm-btn"><i class="fa fa-share"></i> get a Quote</button>
-						<?php if($isLogin) { ?>
-							 <a href="admin/logout.php" class="thm-btn"><i class="fa fa-power-off"></i> Logout</a>
-							<?php }else{
-							?>
-							 <a href="login.php" class="thm-btn">Login</a>
-							<?php
-							
-							} ?>
-                    </div>
-                </div>
-            </div>
-        </header>
+       <?php include("header.php"); ?>
+        
         <section class="mainmenu-wrapper stricky">
             <div class="container">
                 <nav class="mainmenu-holder pull-left">
